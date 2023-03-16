@@ -302,7 +302,7 @@ PODS:
   - React-jsinspector (0.70.6)
   - React-logger (0.70.6):
     - glog
-  - react-native-bootpay-api (4.2.6):
+  - react-native-bootpay-api (4.3.0):
     - React-Core
   - react-native-sensitive-info (5.5.8):
     - React
@@ -577,7 +577,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: b4a65947391c658450151275aa406f2b8263178f
   React-jsinspector: 60769e5a0a6d4b32294a2456077f59d0266f9a8b
   React-logger: 1623c216abaa88974afce404dc8f479406bbc3a0
-  react-native-bootpay-api: 6d6d89a178f625343100b4d18346a7e35ee1438d
+  react-native-bootpay-api: e4ce74eace8a9717060100986e0039bdd6d80c3f
   react-native-sensitive-info: 400c6e3d27945e15c8cddb5b4b92233c85ee06f8
   react-native-webview-bootpay: 2e34169d03d4c3f6ef270ee2dd640d099156d34c
   React-perflogger: 8c79399b0500a30ee8152d0f9f11beae7fc36595
